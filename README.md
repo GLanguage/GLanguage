@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GLanguage
+- 👀 I like creating & exploring
+- 🌱 I’m currently learning neural network, audio handling and maybe Unity in the future
+- 💞️ I’m looking to collaborate on [ZetaChess](https://www.github.com/GLanguage/ZetaChess) and I'm also planning to design an esolang
+- 📫 Contact me through my e-mail hanyx2006@qq.com
